@@ -6,7 +6,7 @@ Changes in this version: 1. Fixed the mistakes in Gender equality data in python
                          2. Updated the slides and tableau visualization  
                          
 -------------                
-      The descirpition is imported from the original work 
+      The descirpition is imported from the original work and *updated*
 --------------
 
 # Objectives
